@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+1. Friend's Name (Ritika)
+2. Adjective (Allison)
+3. Adjective (Luke)
+4. Color (Sai Ram)
+5. Month (Ritika)
+6. Number (Allison)
+7. Noun (Plural) (Luke)
+8. Noun (Plural) (Sai Ram)
+9. Noun (Ritika)
+10. Room Name (Allison)
+11. Liquid (Luke)
+12. Adjective (Sai Ram)
+13. Material (Ritika)
+14. Activity (Allison)
+15. Adverb (Luke)
+16. Number (Sai Ram)
+17. Unit of Time (Ritika)
+18. Different Activity (Allison)
+19. Adjective (Luke)
+20. Vehicle (Sai Ram)
+21. Your Name (Ritika)
