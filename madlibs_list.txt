@@ -1,22 +1,21 @@
 1. Friend's Name (Ritika)
 2. fluffy
-3. Adjective (Luke)
+3. tasty
 4. Color (Sai Ram)
 5. Month (Ritika)
 6. 14
-7. Noun (Plural) (Luke)
+7. puppies
 8. Noun (Plural) (Sai Ram)
 9. Noun (Ritika)
 10. bathroom
-11. Liquid (Luke)
+11. coffee
 12. Adjective (Sai Ram)
 13. Material (Ritika)
 14. hiking
-15. Adverb (Luke)
+15. carefully
 16. Number (Sai Ram)
 17. Unit of Time (Ritika)
 18. petting a cat
-19. Adjective (Luke)
+19. important
 20. Vehicle (Sai Ram)
 21. Your Name (Ritika)
-
